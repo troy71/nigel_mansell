@@ -1,0 +1,23 @@
+body{
+    background-color: #F1F0E8;
+    font-family: "Noto Sans", serif; 
+}
+
+h1{
+    font-family: "Roboto", serif; 
+    font-size: 40px;
+    color: blue;    
+}
+
+h2{
+    font-family: "Roboto", serif;  
+    color: blue;  
+}
+
+img{
+    height: 350px;
+}
+
+p{
+    font-family: "Noto Sans", serif; 
+}
